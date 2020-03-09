@@ -1,3 +1,6 @@
 import Foundation
+import UDPCore
 
-print("Hello Server")
+let server = Server()
+print("✨ Server is running... ✨")
+RunLoop.current.run()
