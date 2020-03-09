@@ -65,6 +65,7 @@ while true {
     default:
         client.leave()
         print("See ya 👋")
+        sleep(1)
         exit(EXIT_SUCCESS)
     }
     sleep(1)
