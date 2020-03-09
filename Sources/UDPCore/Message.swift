@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  Message.swift
 //  
 //
 //  Created by Kirill Gorbachyonok on 3/8/20.
